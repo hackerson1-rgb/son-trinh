@@ -39,7 +39,7 @@
       ],
     ],
     bloom: {
-      num: 700,
+      num: 500,
       width: 1080,
       height: 650,
     },
